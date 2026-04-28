@@ -1,0 +1,15 @@
+{
+  "name": "taller_de_tipos_ts_juan_jose_moreno_benavides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
